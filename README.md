@@ -2,8 +2,9 @@
 
 
 ## Description
-This project is based around ATMega32 Controller. There are only 2 categories (Pop culture and Sports)  that are implemented due to the lack of storage the microcontroller can hold. Each category holds a series ofrandomized questions. A score out of 10 will be displayed on the LED once 10 randomized questions have been asked. A 70% or higher will produce a pleasing low to high tune, otherwise it will produce a gloomy high to low tune. 
+A project based around ATMega32 Controller. There are only 2 categories (Pop culture and Sports)  that are implemented due to the lack of storage the microcontroller can hold. Each category holds a series ofrandomized questions. A score out of 10 will be displayed on the LED once 10 randomized questions have been asked. A 70% or higher will produce a pleasing low to high tune, otherwise it will produce a gloomy high to low tune. 
 
+- **Programming Language:** C
 
 - **Category:** Games
 
@@ -25,8 +26,10 @@ Future implementations yet to be completed:
 * [ ] Create a timed feature in which users answer as many questions as they can within a certain timeframe.
 
 ## Video Walkthrough
+<img src='http://g.recordit.co/8etZEGZHBD.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2u97XLhyB7k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+https://www.youtube.com/watch?v=2u97XLhyB7k
 
 ## License
 
