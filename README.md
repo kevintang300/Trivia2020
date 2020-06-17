@@ -28,6 +28,10 @@ Future implementations yet to be completed:
 ## Video Walkthrough
 https://www.youtube.com/watch?v=2u97XLhyB7k
 
+## Notes
+
+A huge thanks and credits to professor Tony Givargis for providing files for lcd and avr. These files contain functions that help display characters on the lcd as well as create a accurate wait function that helps replicate real time. All credits for lcd.c, lcd.h, avr.c, avr.h go to professor Tony Givargis.
+
 ## License
 
     Copyright [2020] [Kevin Tang]
