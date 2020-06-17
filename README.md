@@ -2,7 +2,7 @@
 
 
 ## Description
-A project based around ATMega32 Controller. There are only 2 categories (Pop culture and Sports)  that are implemented due to the lack of storage the microcontroller can hold. Each category holds a series ofrandomized questions. A score out of 10 will be displayed on the LED once 10 randomized questions have been asked. A 70% or higher will produce a pleasing low to high tune, otherwise it will produce a gloomy high to low tune. 
+A project based around ATMega32 Controller. There are only 2 categories (Pop culture and Sports)  that are implemented due to the lack of storage the microcontroller can hold. Each category holds a series of randomized questions. A score out of 10 will be displayed on the LED once 10 randomized questions have been asked. A 70% or higher will produce a pleasing low to high tune, otherwise it will produce a gloomy high to low tune. 
 
 - **Programming Language:** C
 
