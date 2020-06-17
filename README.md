@@ -26,9 +26,6 @@ Future implementations yet to be completed:
 * [ ] Create a timed feature in which users answer as many questions as they can within a certain timeframe.
 
 ## Video Walkthrough
-<img src='http://g.recordit.co/8etZEGZHBD.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-
 https://www.youtube.com/watch?v=2u97XLhyB7k
 
 ## License
